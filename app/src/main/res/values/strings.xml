@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="grid_simple">Grid Simple</string>
+    <string name="grid_custom">Grid Personalizado</string>
+</resources>
